@@ -5,7 +5,7 @@ https://www.iper.it/landing-iperdrive.php
 
 ## Quickstart
 On your Terminal
-* `chmod u+x filename.php`
+* `chmod u+x check.php`
 * `./check.php`
 
 
