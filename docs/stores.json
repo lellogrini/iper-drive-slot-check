@@ -1,0 +1,100 @@
+{
+  "stores" :
+  [
+    {
+      "name": "Arese",
+      "storeId": 10165,
+      "pdrId": 15
+    },
+    {
+      "name": "Brembate",
+      "storeId": 10153,
+      "pdrId": 2
+    },
+    {
+      "name": "Busnago",
+      "storeId": 10159,
+      "pdrId": 8
+    },
+    {
+      "name": "Castelfranco Veneto",
+      "storeId": 10160,
+      "pdrId": 9
+    },
+    {
+      "name": "Cremona",
+      "storeId": 10152,
+      "pdrId": 1
+    },
+    {
+      "name": "Grandate",
+      "storeId": 715840888,
+      "pdrId": 19
+    },
+    {
+      "name": "Lonato del Garda",
+      "storeId": 10163,
+      "pdrId": 13
+    },
+    {
+      "name": "Magenta",
+      "storeId": 715838384,
+      "pdrId": 17
+    },
+    {
+      "name": "Milano Portello",
+      "storeId": 10151,
+      "pdrId": 11
+    },
+    {
+      "name": "Montebello",
+      "storeId": 715837884,
+      "pdrId": 16
+    },
+    {
+      "name": "Monza",
+      "storeId": 715840887,
+      "pdrId": 18
+    },
+    {
+      "name": "Rozzano",
+      "storeId": 10157,
+      "pdrId": 6
+    },
+    {
+      "name": "San Martino Buon Albergo",
+      "storeId": 10162,
+      "pdrId": 12
+    },
+    {
+      "name": "Savignano sul rubicone",
+      "storeId": 10158,
+      "pdrId": 7
+    },
+    {
+      "name": "Seriate",
+      "storeId": 10156,
+      "pdrId": 5
+    },
+    {
+      "name": "Serravalle",
+      "storeId": 10161,
+      "pdrId": 10
+    },
+    {
+      "name": "Solbiate",
+      "storeId": 10154,
+      "pdrId": 3
+    },
+    {
+      "name": "Varese",
+      "storeId": 10155,
+      "pdrId": 4
+    },
+    {
+      "name": "Vittuone",
+      "storeId": 10164,
+      "pdrId": 14
+    }
+  ]
+}
